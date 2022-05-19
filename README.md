@@ -1,0 +1,1 @@
+# trytond-product_cost_bom
